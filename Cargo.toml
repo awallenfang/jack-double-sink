@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 jack = "0.13.0"
+ringbuffer = "0.15.0"
